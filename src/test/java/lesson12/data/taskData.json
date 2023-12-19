@@ -1,0 +1,58 @@
+{
+  "RISE_AddTask_001_DataDriven": [
+    {
+      "title": "Lesson12_Data1",
+      "description": "Practice",
+      "relatedTo": "Project",
+      "project": "Online",
+      "points": "1 Point",
+      "milestone": "Release",
+      "assignTo": "John",
+      "collaborators": "John",
+      "status": "Review",
+      "priority": "Critical",
+      "labels": "Bug",
+      "startDate": "3-11-2023",
+      "deadLine": "6-11-2023",
+      "repeat": "5",
+      "frequency": "Day(s)",
+      "cycle": "4"
+    },
+    {
+      "title": "Lesson12_Data2",
+      "description": "Practice",
+      "relatedTo": "Project",
+      "project": "Online",
+      "points": "2 Point",
+      "milestone": "Release",
+      "assignTo": "John",
+      "collaborators": "John",
+      "status": "Review",
+      "priority": "Critical",
+      "labels": "Bug",
+      "startDate": "3-11-2023",
+      "deadLine": "6-11-2023",
+      "repeat": "3",
+      "frequency": "Day(s)",
+      "cycle": "3"
+    },
+    {
+      "title": "Lesson12_Data3",
+      "description": "Practice",
+      "relatedTo": "Project",
+      "project": "Online",
+      "points": "3 Point",
+      "milestone": "Release",
+      "assignTo": "John",
+      "collaborators": "John",
+      "status": "Review",
+      "priority": "Critical",
+      "labels": "Bug",
+      "startDate": "3-11-2023",
+      "deadLine": "6-11-2023",
+      "repeat": "5",
+      "frequency": "Day(s)",
+      "cycle": "4"
+    }
+  ]
+}

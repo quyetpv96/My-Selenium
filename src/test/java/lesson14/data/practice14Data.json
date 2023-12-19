@@ -1,0 +1,78 @@
+{
+  "RISE_Project_001_AddLabel_DataDriven": [
+    {
+      "label": "label data1",
+      "colorPalet": "#dbadff"
+    },
+    {
+      "label": "label data2",
+      "colorPalet": "#ad159e"
+    }
+  ],
+  "RISE_Project_001_Project_DataDriven": [
+    {
+      "title": "Practice14_Project_Data1",
+      "projectType": "Client Project",
+      "description": "Data1",
+      "startDate": "06-11-2023",
+      "deadline": "08-11-2023",
+      "price": "500",
+      "client": "Demo Client",
+      "label": "label data1"
+    },
+    {
+      "title": "Practice14_Project_Data2",
+      "projectType": "Internal Project",
+      "description": "Data2",
+      "startDate": "06-11-2023",
+      "deadline": "09-11-2023",
+      "price": "500",
+      "client": "Demo Client",
+      "label": "label data2"
+    },
+    {
+      "title": "Practice14_Project_Data3",
+      "projectType": "Client Project",
+      "description": "Data3",
+      "startDate": "06-11-2023",
+      "deadline": "08-11-2023",
+      "price": "500",
+      "client": "Demo Client",
+      "label": "label data1"
+    },
+    {
+      "title": "Practice14_Project_Data4",
+      "projectType": "Client Project",
+      "description": "Data4",
+      "startDate": "06-11-2023",
+      "deadline": "08-11-2023",
+      "price": "500",
+      "client": "Demo Client",
+      "label": "label data2"
+    },
+    {
+      "title": "Practice14_Project_Data5",
+      "projectType": "Client Project",
+      "description": "Data5",
+      "startDate": "06-11-2023",
+      "deadline": "08-11-2023",
+      "price": "500",
+      "client": "Demo Client",
+      "label": "label data1"
+    }
+  ],
+  "RISE_Project_002_Project_DataDriven": [
+    {
+      "title": "Auto_[quyetpv]_001",
+      "projectType": "Client Project",
+      "client": "Demo Client",
+      "description": "TestData",
+      "startDate": "11-11-2023",
+      "deadline": "14-11-2023",
+      "price": "100",
+      "addMoreMember": "true",
+      "totalMember": "2",
+      "member":
+    }
+  ]
+}

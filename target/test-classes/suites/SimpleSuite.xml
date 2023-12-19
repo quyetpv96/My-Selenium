@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Regression Tests">
+
+    <test name="Test Tag">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="lesson09.TestNGLifeCycle"/>
+        </classes>
+    </test>
+    <test name="Test - Group tag">
+        <parameter name="browser" value="chrome"/>
+        <groups>
+            <run>
+                <include name = "testGroup" />
+            </run>
+        </groups>
+        <classes>
+            <class name="lesson09.TestNGLifeCycle"/>
+        </classes>
+    </test>
+
+</suite>

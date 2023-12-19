@@ -1,0 +1,22 @@
+{
+  "RISE_AddTask": [
+    {
+      "title": "Lesson13_Data1",
+      "description": "Practice",
+      "relatedTo": "Project",
+      "project": "Online",
+      "points": "1 Point",
+      "milestone": "Release",
+      "assignTo": "John Doe",
+      "collaborators": "John Doe",
+      "status": "Review",
+      "priority": "Critical",
+      "labels": "Bug",
+      "startDate": "03-12-2023",
+      "deadLine": "06-12-2023",
+      "repeat": "5",
+      "frequency": "Day(s)",
+      "cycle": "4"
+    }
+  ]
+}

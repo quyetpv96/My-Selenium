@@ -1,0 +1,13 @@
+{
+  "RISE_CreatAccount_DATADRIVEN_001": [
+    {
+      "firstName": "quyet",
+      "lastName": "pham",
+      "type": "organization",
+      "company": "ss",
+      "email": "quyetpv6@demo.com",
+      "password": "abc13579",
+      "retypePw": "abc13579"
+    }
+  ]
+}

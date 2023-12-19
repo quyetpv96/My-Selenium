@@ -1,0 +1,49 @@
+{
+  "OrangeHRM_Candidate_Test001": [
+    {
+      "firstName": "pham1",
+      "middleName": "van",
+      "lastName": "quyet1",
+      "email": "quyetpv@gmail.com",
+      "contactNumber": "123456789",
+      "keywords": "Newbie",
+      "note": "TestData1",
+      "consentDataCheckBox": "checked",
+      "resume": "CV_PhamVanQuyet.docx",
+      "doAY": "2023-11-10",
+      "doAD": "10-11-2023",
+      "doAM": "11-10-2023",
+      "vacancy": "Junior Account Assistant"
+    },
+    {
+      "firstName": "pham2",
+      "middleName": "van",
+      "lastName": "quyet2",
+      "email": "quyetpv@gmail.com",
+      "contactNumber": "123456789",
+      "keywords": "Newbie",
+      "note": "TestData2",
+      "consentDataCheckBox": "checked",
+      "resume": "CV_PhamVanQuyet.docx",
+      "doAY": "2023-11-11",
+      "doAD": "11-11-2023",
+      "doAM": "11-11-2023",
+      "vacancy": "Junior Account Assistant"
+    },
+    {
+      "firstName": "pham3",
+      "middleName": "van",
+      "lastName": "quyet3",
+      "email": "quyetpv@gmail.com",
+      "contactNumber": "123456789",
+      "keywords": "Newbie",
+      "note": "TestData3",
+      "consentDataCheckBox": "checked",
+      "resume": "CV_PhamVanQuyet.docx",
+      "doAY": "2023-11-12",
+      "doAD": "12-11-2023",
+      "doAM": "11-12-2023",
+      "vacancy": "Junior Account Assistant"
+    }
+  ]
+}

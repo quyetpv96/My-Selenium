@@ -1,0 +1,59 @@
+{
+  "RISE_AddLabel_001_DataDriven": [
+    {
+      "label": "quyetpv label1",
+      "colorPalet": "#2d9cdb"
+    },
+    {
+      "label": "quyetpv label2",
+      "colorPalet": "#e18a00"
+    }
+  ],
+  "RISE_AddPayment_001_DataDriven": [
+    {
+      "invoice": "INVOICE #27",
+      "paymentDate": "06-11-2023",
+      "amount": "100",
+      "description": "PaymentData quyetpv test1"
+    },
+    {
+      "invoice": "INVOICE #26",
+      "paymentDate": "08-12-2023",
+      "amount": "200",
+      "description": "PaymentData quyetpv test2"
+    },
+    {
+      "invoice": "INVOICE #25",
+      "paymentDate": "08-12-2023",
+      "amount": "300",
+      "description": "PaymentData quyetpv test3"
+    }
+  ],
+  "RISE_Test_001_AddPayment_DataDriven": [
+    {
+      "addLabel": "1",
+      "label": "quyetpv label1",
+      "colorPalet": "#2d9cdb",
+      "invoice": "INVOICE #27",
+      "paymentDate": "08-12-2023",
+      "amount": "100",
+      "description": "PaymentData quyetpv test1"
+    },
+    {
+      "addLabel": "1",
+      "label": "quyetpv label2",
+      "colorPalet": "#e18a00",
+      "invoice": "INVOICE #26",
+      "paymentDate": "08-12-2023",
+      "amount": "200",
+      "description": "PaymentData quyetpv test2"
+    },
+    {
+      "addLabel": "0",
+      "invoice": "INVOICE #25",
+      "paymentDate": "08-12-2023",
+      "amount": "300",
+      "description": "PaymentData quyetpv test3"
+    }
+  ]
+}

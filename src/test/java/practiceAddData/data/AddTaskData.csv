@@ -1,0 +1,4 @@
+title,description,relatedTo,project,points,milestone,assignTo,collaborators,status,priority,labels,startDate,deadLine,repeat,frequency,cycle,uploadFile
+Data1,Practice,Project,Online,1 Point,Release,John Doe,John Doe,Review,Critical,Bug,2/12/2023,3/12/2023,5,Day(s),4,"a.jpg"
+Data2,Practice,Project,Online,1 Point,Release,John Doe,John Doe,Review,Critical,Bug,2/12/2023,3/12/2023,5,Day(s),4,"a.jpg"
+Data3,Practice,Project,Online,1 Point,Release,John Doe,John Doe,Review,Critical,Bug,2/12/2023,3/12/2023,5,Day(s),4,"a.jpg"

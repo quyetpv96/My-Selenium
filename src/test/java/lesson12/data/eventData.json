@@ -1,0 +1,49 @@
+{
+  "RISE_AddEvent_001_DataDriven": [
+    {
+    "title": "Lesson12_Data1",
+    "description": "Practice",
+    "startDate": "31-10-2023",
+    "endDate": "01-11-2023",
+    "startTime": "1:00 AM",
+    "endTime": "2:00 PM",
+    "location": "Ha Noi",
+    "client": "Demo Client",
+    "shareWith": "Only me",
+    "repeat": "5",
+    "frequency": "Day(s)",
+    "cycle": "4",
+    "color": "#83c340"
+    },
+    {
+      "title": "Lesson12_Data2",
+      "description": "Practice",
+      "startDate": "31-10-2023",
+      "endDate": "01-11-2023",
+      "startTime": "2:00 AM",
+      "endTime": "3:00 PM",
+      "location": "Hung Yen",
+      "client": "Zoila Hauck",
+      "shareWith": "All team members",
+      "repeat": "5",
+      "frequency": "Month(s)",
+      "cycle": "4",
+      "color": "#f1c40f"
+    },
+    {
+      "title": "Lesson12_Data3",
+      "description": "Practice",
+      "startDate": "31-10-2023",
+      "endDate": "01-11-2023",
+      "startTime": "3:00 AM",
+      "endTime": "4:00 PM",
+      "location": "Hai Duong",
+      "client": "Demo Client",
+      "shareWith": "Only me",
+      "repeat": "5",
+      "frequency": "Day(s)",
+      "cycle": "4",
+      "color": "#d43480"
+    }
+  ]
+}
