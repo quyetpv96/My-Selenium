@@ -136,7 +136,7 @@ public class BasePage {
 
     public void sleeps(long seconds) {
         try {
-            Thread.sleep(seconds * 100);
+            Thread.sleep(seconds * 1000);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
